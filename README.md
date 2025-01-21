@@ -1,1 +1,1 @@
-# 3d-camera-animation-threejs
+# 3D-Camera-Animation-Three.js
